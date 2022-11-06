@@ -25,18 +25,17 @@ Here are some ideas to get you started:
 -->
 
 ## Books
-[Salesforce for Dummies](https://www.amazon.com/Salesforce-com-Dummies-Tom-Wong/dp/0470590718)
-
-[Learning Apex Programming](https://www.packtpub.com/product/learning-apex-programming/9781782173977)
+- [Salesforce for Dummies](https://www.amazon.com/Salesforce-com-Dummies-Tom-Wong/dp/0470590718)
+- [Learning Apex Programming](https://www.packtpub.com/product/learning-apex-programming/9781782173977)
 
 ## Pluralsight Courses
-[Salesforce Development Lifecycle and Deployments](https://www.pluralsight.com/courses/salesforce-development-lifecycle-deployments)
-
-[Play by Play: Mastering Salesforce Metadata Merge Strategies](https://www.pluralsight.com/courses/play-by-play-mastering-salesforce-metadata-merge-strategies)
-
-[Play by Play: Maximize Your Value through Salesforce Coding Best Practices](https://www.pluralsight.com/courses/play-by-play-maximize-value-through-salesforce-coding-best-practices)
-
-[Play by Play: Salesforce Integration on a Budget](https://www.pluralsight.com/courses/play-by-play-salesforce-integration-on-a-budget)
+- [Salesforce Development Lifecycle and Deployments](https://www.pluralsight.com/courses/salesforce-development-lifecycle-deployments)
+- [Play by Play: Mastering Salesforce Metadata Merge Strategies](https://www.pluralsight.com/courses/play-by-play-mastering-salesforce-metadata-merge-strategies)
+- [Play by Play: Maximize Your Value through Salesforce Coding Best Practices](https://www.pluralsight.com/courses/play-by-play-maximize-value-through-salesforce-coding-best-practices)
+- [Play by Play: Salesforce Integration on a Budget](https://www.pluralsight.com/courses/play-by-play-salesforce-integration-on-a-budget)
 
 ## Talks
-[Deploy and Host your App like a Pro with Cloud Build and Cloud Run](https://gdg.community.dev/events/details/google-gdg-modesto-presents-deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run/)
+- [Deploy and Host your App like a Pro with Cloud Build and Cloud Run](https://gdg.community.dev/events/details/google-gdg-modesto-presents-deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run/)
+- [Reusable Web Component](https://salesforceway.com/speaker/matt-kaufman/)
+- [Quick Questions with MK Partners - What is Salesforce?](https://www.youtube.com/watch?v=8MtrJkidZaw)
+- [Partner Success with Trailhead](https://www.salesforce.com/video/3637705/)
