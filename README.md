@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 - [Reusable Web Component](https://salesforceway.com/speaker/matt-kaufman/)
 - [Quick Questions with MK Partners - What is Salesforce?](https://www.youtube.com/watch?v=8MtrJkidZaw)
 - [Partner Success with Trailhead](https://www.salesforce.com/video/3637705/)
+- [Integrating 3rd Party APIs Using Apex RESTful Callouts](https://www.youtube.com/watch?v=705SeyjpoFs)
+- [Pacific Region DevFest 2020](https://gdg.community.dev/events/details/google-gdg-san-fernando-valley-presents-pacific-region-devfest/)
