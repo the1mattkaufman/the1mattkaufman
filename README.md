@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 - [Play by Play: Salesforce Integration on a Budget](https://www.pluralsight.com/courses/play-by-play-salesforce-integration-on-a-budget)
 
 ## Talks
-- [Deploy and Host your App like a Pro with Cloud Build and Cloud Run](https://gdg.community.dev/events/details/google-gdg-modesto-presents-deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run/)
+- [Video: Deploy and Host your App like a Pro with Cloud Build and Cloud Run](https://gdg.community.dev/events/details/google-gdg-modesto-presents-deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run/)
+- [Repo: Deploy and Host your App like a Pro with Cloud Build and Cloud Run](https://github.com/the1mattkaufman/deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run)
+- [Slides: Deploy and Host your App like a Pro with Cloud Build and Cloud Run](https://github.com/the1mattkaufman/deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run/blob/main/can_I_please_%20just_code.pdf)
 - [Reusable Web Component](https://salesforceway.com/speaker/matt-kaufman/)
 - [Quick Questions with MK Partners - What is Salesforce?](https://www.youtube.com/watch?v=8MtrJkidZaw)
 - [Partner Success with Trailhead](https://www.salesforce.com/video/3637705/)
