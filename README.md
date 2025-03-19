@@ -24,6 +24,9 @@ Here are some ideas to get you started:
   dev.to
 -->
 
+## YouTube
+- [Q&A with Matt K](https://www.youtube.com/playlist?list=PLakc6339EiLantSBH8czRw6mjfYshggFP)
+
 ## Books
 - [Salesforce for Dummies](https://www.amazon.com/Salesforce-com-Dummies-Tom-Wong/dp/0470590718)
 - [Learning Apex Programming](https://www.packtpub.com/product/learning-apex-programming/9781782173977)
