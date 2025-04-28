@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - [Video: Beginner's Guide to Agentforce](https://www.salesforce.com/plus/experience/tdx_2025/series/administrators_at_tdx_2025/episode/episode-s1e7)
 - [Video: Deploy and Host your App like a Pro with Cloud Build and Cloud Run](https://gdg.community.dev/events/details/google-gdg-modesto-presents-deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run/)
 - [Repo: Deploy and Host your App like a Pro with Cloud Build and Cloud Run](https://github.com/the1mattkaufman/deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run)
-- [Slides: Deploy and Host your App like a Pro with Cloud Build and Cloud Run](https://github.com/the1mattkaufman/deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run/blob/main/can_I_please_%20just_code.pdf)
+- [Slides: Deploy and Host your App like a Pro with Cloud Build and Cloud Run](https://github.com/the1mattkaufman/deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run/blob/main/can_I_please_just_code.pdf)
 - [Podcast: Reusable Web Component](https://salesforceway.com/podcast/reusable-web-component/)
 - [Video: Quick Questions with MK Partners - What is Salesforce?](https://www.youtube.com/watch?v=8MtrJkidZaw)
 - [Video: Partner Success with Trailhead](https://www.salesforce.com/video/3637705/)
