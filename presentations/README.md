@@ -61,3 +61,5 @@
 
 - [Video: Integrating 3rd Party APIs Using Apex RESTful Callouts](https://www.youtube.com/watch?v=705SeyjpoFs)
 
+### 2012
+- [Idea to WebService in hours Using Google Apps Script](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Idea_to_WebService_with_Apps_Script.pdf)
