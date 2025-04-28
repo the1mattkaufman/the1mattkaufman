@@ -19,6 +19,8 @@
 ### 2023
 - Deploy and Host your App like a Pro with Cloud Build and Cloud Run v2 [Video](https://gdg.community.dev/events/details/google-gdg-modesto-presents-deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run/), [Repo](https://github.com/the1mattkaufman/deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run), [Slides](https://github.com/the1mattkaufman/deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run/blob/main/can_I_please_just_code.pdf)
 
+- [Data Modeling and Management](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Data_Modeling_and_Management.pdf)
+
 - [IO Extended 2023](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/IO_Extended_2023.pdf)
 
 ### 2022
