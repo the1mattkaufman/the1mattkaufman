@@ -19,9 +19,14 @@
 - [Using Puppeteer for Automated Web Testing and other Nefarious Activities](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Using_Puppeteer_for_Automated_Web_Testing_and_other_Nefarious_Activities.pdf)
 
 - [Deploy and Host your App like a Pro with Cloud Build and Cloud Run v1](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Deploy_and_Host_your_App_like_a_Pro_with_Cloud_Build_and_Cloud_Run.pdf)
+
 - [Podcast: Reusable Web Component](https://salesforceway.com/podcast/reusable-web-component/)
+
 - [Video: Quick Questions with MK Partners - What is Salesforce?](https://www.youtube.com/watch?v=8MtrJkidZaw)
+
 - [Video: Pacific Region DevFest 2020](https://gdg.community.dev/events/details/google-gdg-san-fernando-valley-presents-pacific-region-devfest/)
+
+- [How to Find Balance & Avoid Burnout / Collaborating with Communities](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/How_to_Find_Balance_Avoid_Burnout_Collaborating_with_Communities.pdf)
 
 ### 2019
 
