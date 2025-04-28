@@ -25,7 +25,7 @@
 
 ### 2019
 
-- [Building a backedn for your app with Firebase](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Building_a_backend_for_your_app_with_Firebase.pdf)
+- [Building a backend for your app with Firebase](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Building_a_backend_for_your_app_with_Firebase.pdf)
 
 ### 2018
 
