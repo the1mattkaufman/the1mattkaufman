@@ -14,6 +14,8 @@
 
 - [Increase Trust and Security with Automated Testing](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Increase_trust_and_security_with_automated_testing.pdf)
 
+- [Scale Your Customer Service with AI-Powered Chatbots](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Scale_Your_Customer_Service_with_AI_Powered_Chatbots.pdf)
+
 ### 2023
 - Deploy and Host your App like a Pro with Cloud Build and Cloud Run v2 [Video](https://gdg.community.dev/events/details/google-gdg-modesto-presents-deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run/), [Repo](https://github.com/the1mattkaufman/deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run), [Slides](https://github.com/the1mattkaufman/deploy-and-host-your-app-like-a-pro-with-cloud-build-and-cloud-run/blob/main/can_I_please_just_code.pdf)
 
