@@ -5,6 +5,9 @@
 
 ### 2024
 - [Upping your LinkedIn Game!](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Upping_Your_LinkedIn_Game.pdf)
+
+- [Intro to Gemini](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Introduction_to_Gemini.pdf)
+
 - [Build with AI](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Build_with_AI_Workshop.pdf)
 
 ### 2023
