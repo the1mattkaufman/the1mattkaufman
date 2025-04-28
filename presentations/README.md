@@ -27,6 +27,8 @@
 
 - [Force.com App Considerations](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Force_com_App_Considerations.pdf)
 
+- [GitHub Continuous Integration in 30 minutes or less](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/GitHub_CI_in_30_min_or_less.pdf)
+
 ### 2021
 
 - [Using Puppeteer for Automated Web Testing and other Nefarious Activities](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Using_Puppeteer_for_Automated_Web_Testing_and_other_Nefarious_Activities.pdf)
