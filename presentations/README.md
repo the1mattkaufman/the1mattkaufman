@@ -27,6 +27,8 @@
 
 - [Building a backend for your app with Firebase](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Building_a_backend_for_your_app_with_Firebase.pdf)
 
+- [VS Code on a Pixelbook](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/VS_Code_on_a_Pixelbook.pdf)
+
 ### 2018
 
 - [Firebase: the right choice for PaaS](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Firebase_the_right_choice_for_PaaS.pdf)
