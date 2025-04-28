@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 - 😄 Pronouns: He/Him
-- 💬 Ask me about Salesforce, Google, Programming, APIs, Small Business, Consulting, Entrepreneurship
+- 💬 Ask me about Salesforce, Firebase, Serverless, AI, JavaScript, APIs, Small Business, Consulting, Entrepreneurship
 - 🔭 I’m currently working on Mambo Merge, a document generation app for Salesforce
 
 ## Follow Me
