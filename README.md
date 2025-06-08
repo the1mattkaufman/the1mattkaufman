@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - [Play by Play: Salesforce Integration on a Budget](https://www.pluralsight.com/courses/play-by-play-salesforce-integration-on-a-budget)
 
 ## Presentations/Talks
-- [Links to Presentations, Talks and More](/presentations)
+- [Links to Presentations, Talks and More](/presentations#presentations-talks-and-more)
 
 ## FAQ
 
