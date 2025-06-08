@@ -1,7 +1,14 @@
 # Presentations, Talks, and More
 
 ### 2025
+- [Video: How To Build PayPal From Scratch - Systme Design Series](https://www.youtube.com/watch?v=qWnlT1yAFT8)
+
+- [Firebase Studio: AIding your App Development](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Firebase_Studio_AIding_your_App_Development.pdf)
+
+- [10 Favorite Admin Apps - TX Dreamin'](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/10_Favorite_Admin_Apps.pdf))
+
 - [Video: Beginner's Guide to Agentforce](https://www.salesforce.com/plus/experience/tdx_2025/series/administrators_at_tdx_2025/episode/episode-s1e7)
+
 
 ### 2024
 - [Upping your LinkedIn Game!](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Upping_Your_LinkedIn_Game.pdf)
