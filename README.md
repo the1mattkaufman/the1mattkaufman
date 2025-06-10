@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 - [StackOverflow](https://stackoverflow.com/users/8112708/matt-kaufman)
 - [Trailhead](https://www.salesforce.com/trailblazer/the1mattkaufman)
 
-<!--
-  medium
-  dev.to
--->
-
 ## YouTube
 - [Q&A with Matt K](https://www.youtube.com/playlist?list=PLakc6339EiLantSBH8czRw6mjfYshggFP)
 

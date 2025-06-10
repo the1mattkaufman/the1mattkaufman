@@ -1,7 +1,7 @@
 # Presentations, Talks, and More
 
 ### 2025
-- [Video: How To Build PayPal From Scratch - Systme Design Series](https://www.youtube.com/watch?v=qWnlT1yAFT8)
+- [Video: How To Build PayPal From Scratch - System Design Series](https://www.youtube.com/watch?v=qWnlT1yAFT8)
 
 - [Firebase Studio: AIding your App Development](https://github.com/the1mattkaufman/the1mattkaufman/blob/main/presentations/Firebase_Studio_AIding_your_App_Development.pdf)
 
